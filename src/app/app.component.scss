@@ -16,10 +16,10 @@ h1{
   font-size: 32px; 
 }
 .btn-purple{--background: #43114a; color:white;}
-.btn-outlined{--background: transparent; 
-border: 3px solid; 
+.btn-outlined{--background: translucent; 
+//border: 3px solid; 
 color:white;
-border-radius: 20px;
+border-radius: 0px;
 text-transform: none;
 letter-spacing: 3px;
 width:358px;
