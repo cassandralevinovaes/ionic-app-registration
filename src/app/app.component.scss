@@ -1,3 +1,11 @@
+:root {
+  --ion-color-primary: #43114a;
+  --ion-color-primary-rgb: 67, 17, 74;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255,255,255;
+  }
+
+
 ion-title,
 ion-content{
   font-family: 'PT Serif', serif;
@@ -13,3 +21,5 @@ h1{
   letter-spacing: 2px;
     
 }
+.btn-purple{--background: #43114a; color:white;}
+.btn-outlined{--background: transparent; border: 2px solid; color:white;}
