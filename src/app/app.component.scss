@@ -17,9 +17,9 @@ h1{
 }
 .btn-purple{--background: #43114a; color:white;}
 .btn-outlined{--background: transparent; 
-border: 2px solid; 
+border: 3px solid; 
 color:white;
-border-radius: 10px;
+border-radius: 20px;
 text-transform: none;
 letter-spacing: 3px;
 width:358px;
@@ -31,7 +31,8 @@ font-weight: 400;
 .btn-grey{
   --background: #e8e8e8; 
 color:#625261;
-border-radius: 10px;
+border: 3px solid;
+border-radius: 20px;
 text-transform: none;
 letter-spacing: 3px;
 width:358px;
