@@ -2,11 +2,9 @@ ion-title,
 ion-content{
   font-family: 'PT Serif', serif;
 }
-ion-header{
-  --background: transparent;
-
+ion-toolbar{
+  --background: #43114a;
 }
 ion-content{
   --background:#43114a;
 }
-ion-footer{ --background: translucent;}
