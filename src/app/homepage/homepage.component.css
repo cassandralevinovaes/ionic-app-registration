@@ -3,7 +3,7 @@ ion-content{
   font-family: 'PT Serif', serif;
 }
 ion-toolbar{
-  --background: #43114a;
+  --background: transparent;
 }
 ion-content{
   --background:#43114a;
