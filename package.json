@@ -18,6 +18,7 @@
     "@types/jasmine": "3.5.13",
     "@types/jasminewd2": "2.0.8",
     "@types/node": "12.12.54",
+    "ionic": "latest",
     "rxjs": "6.5.5",
     "tslib": "2.0.1",
     "zone.js": "0.10.3"
