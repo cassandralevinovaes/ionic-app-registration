@@ -6,9 +6,10 @@ import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
 
 import { AppComponent } from './app.component';
+import { HomepageComponent } from './homepage/homepage.component';
 
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent, HomepageComponent],
   entryComponents: [],
   imports: [BrowserModule, IonicModule.forRoot()],
   providers: [
